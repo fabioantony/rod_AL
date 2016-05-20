@@ -17402,7 +17402,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Rodovia": "BR-316"
@@ -19275,7 +19275,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#d90005",
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Rodovia": "AL-430"
@@ -25785,7 +25785,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Rodovia": "BR-424"
@@ -26098,7 +26098,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
+        "stroke": "#555555",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Rodovia": "Trilha 0037"
@@ -27803,8 +27803,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-width": 10,
+        "stroke-opacity": 0.8,
         "Rodovia": "AL-101"
       },
       "geometry": {
@@ -28884,8 +28884,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-width": 10,
+        "stroke-opacity": 0.8,
         "Rodovia": "AL-101"
       },
       "geometry": {
@@ -29086,8 +29086,8 @@
       "type": "Feature",
       "properties": {
         "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke-width": 10,
+        "stroke-opacity": 0.8,
         "Rodovia": "AL-101"
       },
       "geometry": {
@@ -31332,9 +31332,9 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 0.8,
         "Rodovia": "AL-101"
       },
       "geometry": {
@@ -45755,7 +45755,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
+        "stroke": "#00ff40",
         "stroke-width": 2,
         "stroke-opacity": 1,
         "Rodovia": "AL-220"
