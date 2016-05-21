@@ -31362,7 +31362,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#ff0000",
+        "stroke": "#00d500",
         "stroke-width": 10,
         "stroke-opacity": 0.8,
         "Rodovia": "AL-101"
@@ -55612,6 +55612,87 @@
           [
             -35.73946952819824,
             -9.633647674346475
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00d500",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "Obra": "MLM Quartel"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.730714797973626,
+          -9.631257142460983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00d500",
+        "marker-size": "medium",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.74071407318115,
+          -9.641030714590793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00d500",
+        "marker-size": "medium",
+        "marker-symbol": "car",
+        "Obra": "MLM Bebedouro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -35.740671157836914,
+          -9.619410009075747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#ff0000",
+        "stroke-width": 10,
+        "stroke-opacity": 0.8,
+        "rodovia": "AL-101 Norte"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -35.691726207733154,
+            -9.61754827892518
+          ],
+          [
+            -35.690460205078125,
+            -9.615644226122772
+          ],
+          [
+            -35.68940877914429,
+            -9.614692195701403
+          ],
+          [
+            -35.68885087966919,
+            -9.613401661296376
+          ],
+          [
+            -35.687971115112305,
+            -9.61208996554437
           ]
         ]
       }
