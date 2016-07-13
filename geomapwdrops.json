@@ -141552,7 +141552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#808040",
         "marker-size": "small",
         "marker-symbol": "car"
       },
@@ -141642,7 +141642,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#808040",
         "marker-size": "small",
         "marker-symbol": "water"
       },
@@ -141711,6 +141711,186 @@
         "coordinates": [
           -37.6885986328125,
           -9.332541593870577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.53753662109374,
+          -9.15090934945207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.72705078125,
+          -9.530331693236691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.474365234375,
+          -9.698227924591501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.9854736328125,
+          -9.901215754373542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.77398681640625,
+          -10.198703620830878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.68609619140625,
+          -10.250059987303004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "slaughterhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.6339111328125,
+          -10.106782108066934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.55975341796875,
+          -10.147338971518469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8000",
+        "marker-size": "small",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.62017822265625,
+          -10.177077407304793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.551513671875,
+          -10.27438378475753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#0080ff",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.485595703125,
+          -10.309514853436616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#808080",
+        "marker-size": "small",
+        "marker-symbol": "car"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.48834228515625,
+          -10.212219258788627
         ]
       }
     }
