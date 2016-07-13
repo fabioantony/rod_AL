@@ -141867,7 +141867,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
