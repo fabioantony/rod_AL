@@ -68142,7 +68142,7 @@
         "stroke-width": 2,
         "stroke-opacity": 1,
         "fill": "#0080c0",
-        "fill-opacity": 0.5,
+        "fill-opacity": 0.7,
         "MunicÃÂÃÂ­pio": "Jaramataia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jaramataia.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jaramataia.JPG' width='140'; heigth='150'></a>",
         "HistÃÂÃÂ³rico do MunicÃÂÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-jaramataia'target='_blank'>Clique aqui!</a>",
@@ -141552,7 +141552,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
         "marker-symbol": "car"
       },
@@ -141567,7 +141567,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -141612,7 +141612,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -141642,9 +141642,9 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
-        "marker-symbol": "water"
+        "marker-symbol": "dam"
       },
       "geometry": {
         "type": "Point",
@@ -141672,7 +141672,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -141777,7 +141777,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -141852,7 +141852,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -141912,7 +141912,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -141957,7 +141957,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -142002,7 +142002,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -142017,7 +142017,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -142032,7 +142032,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
         "marker-symbol": "land-use"
       },
@@ -142092,7 +142092,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
         "marker-symbol": "car"
       },
@@ -142107,7 +142107,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
         "marker-symbol": "car"
       },
@@ -142294,21 +142294,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -37.24365234375,
-          -9.717178696853315
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#00ff00",
-        "marker-size": "small",
-        "marker-symbol": "slaughterhouse"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -37.0513916015625,
           -9.774024565864734
         ]
@@ -142482,7 +142467,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808040",
+        "marker-color": "#ffff00",
         "marker-size": "small",
         "marker-symbol": "car"
       },
@@ -142527,7 +142512,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -142542,7 +142527,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "school"
       },
@@ -142557,7 +142542,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "school"
       },
@@ -142572,7 +142557,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "school"
       },
@@ -142587,7 +142572,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "school"
       },
@@ -142602,7 +142587,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -142617,7 +142602,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -142692,7 +142677,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#808080",
+        "marker-color": "#000000",
         "marker-size": "small",
         "marker-symbol": "police"
       },
@@ -142737,7 +142722,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -142902,7 +142887,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#0080ff",
+        "marker-color": "#400040",
         "marker-size": "small",
         "marker-symbol": "college"
       },
@@ -142986,6 +142971,336 @@
         "coordinates": [
           -37.254638671875,
           -9.283754088863367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.11456298828125,
+          -9.316279848963172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400040",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1282958984375,
+          -9.373192635083429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1722412109375,
+          -9.3352518109836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.9415283203125,
+          -9.440933782190045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff8040",
+        "marker-size": "small",
+        "marker-symbol": "suitcase"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.90032958984375,
+          -9.470735674130932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.034912109375,
+          -9.663030792615071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.99371337890625,
+          -9.690105836991949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.1282958984375,
+          -9.700935243406986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400040",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.08709716796875,
+          -9.74154239811809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.837158203125,
+          -9.822741867037168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.8701171875,
+          -9.744249366331491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400040",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.88385009765625,
+          -9.871451997300536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -36.79595947265625,
+          -9.86604011578546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#400040",
+        "marker-size": "small",
+        "marker-symbol": "college"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.49359130859375,
+          -9.538457618319674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.47711181640625,
+          -9.61429022649668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#000000",
+        "marker-size": "small",
+        "marker-symbol": "police"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.53753662109374,
+          -9.511370449204511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "small",
+        "marker-symbol": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.59246826171875,
+          -9.484281134361288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ffff00",
+        "marker-size": "small",
+        "marker-symbol": "dam"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.54302978515625,
+          -9.400290685848109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.496337890625,
+          -9.411129312441545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.39471435546875,
+          -9.486990162235642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.34527587890625,
+          -9.46802651795435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "slaughterhouse"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.22167968749999,
+          -9.671153534953039
         ]
       }
     }
