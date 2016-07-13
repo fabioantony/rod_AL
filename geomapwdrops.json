@@ -142928,6 +142928,66 @@
           -9.692813221378119
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.37548828125,
+          -9.145486056167277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#008000",
+        "marker-size": "small",
+        "marker-symbol": "water"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.33154296875,
+          -9.164467220791428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#ff0000",
+        "marker-size": "small",
+        "marker-symbol": "hospital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.31506347656249,
+          -9.313569484495469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#00ff00",
+        "marker-size": "small",
+        "marker-symbol": "wetland"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -37.254638671875,
+          -9.283754088863367
+        ]
+      }
     }
   ]
 }
