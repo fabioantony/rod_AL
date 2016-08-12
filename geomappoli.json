@@ -886,6 +886,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Anadia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/anadia.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/anadia.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/anadia-historico-do-municipio'target='_blank'>Clique aqui!</a>",
@@ -11137,6 +11142,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Atalaia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/atalaia.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/atalaia.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/atalaia-historico-do-municipio'target='_blank'>Clique aqui!</a>",
@@ -11914,6 +11924,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Barra de Santo AntÃÂ´nio",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Barra%20de%20Santo%20Antonio.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Barra%20de%20Santo%20Antonio.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-barra-de-santo-antonio'target='_blank'>Clique aqui!</a>",
@@ -15329,6 +15344,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Batalha",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/batalha.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/batalha.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-batalha'target='_blank'>Clique aqui!</a>",
@@ -15810,6 +15830,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "BelÃÂ©m",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Belem.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Belem.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-belem'target='_blank'>Clique aqui!</a>",
@@ -25247,6 +25272,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Branquinha",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Branquinha.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Branquinha.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-branquinha'target='_blank'>Clique aqui!</a>",
@@ -25592,6 +25622,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Cacimbinhas",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/cacimbinhas.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/cacimbinhas.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-cacimbinhas'target='_blank'>Clique aqui!</a>",
@@ -26309,6 +26344,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Cajueiro",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/cajueiro.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/cajueiro.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-cajueiro'target='_blank'>Clique aqui!</a>",
@@ -26394,6 +26434,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Campestre",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/campestre.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/campestre.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-campestre'target='_blank'>Clique aqui!</a>",
@@ -28529,6 +28574,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Campo Grande",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/campo-grande.PNG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/campo-grande.PNG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-campo-grande'target='_blank'>Clique aqui!</a>",
@@ -35036,6 +35086,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Capela",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/capela.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/capela.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-capela'target='_blank'>Clique aqui!</a>",
@@ -35289,6 +35344,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Carneiros",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/carneiros.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/carneiros.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-carneiros'target='_blank'>Clique aqui!</a>",
@@ -36180,6 +36240,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "CoitÃÂ© do NÃÂ³ia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coite-do-noia.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coite-do-noia.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-coite-do-noia'target='_blank'>Clique aqui!</a>",
@@ -37061,6 +37126,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "ColÃÂ´nia Leopoldina",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/colonia-leopoldina.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/colonia-leopoldina.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-colonia-leopoldina'target='_blank'>Clique aqui!</a>",
@@ -37702,6 +37772,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Coqueiro Seco",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coqueiro-seco.png'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coqueiro-seco.png' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-coqueiro-seco'target='_blank'>Clique aqui!</a>",
@@ -38263,6 +38338,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Coruripe",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coruripe.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/coruripe.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-coruripe'target='_blank'>Clique aqui!</a>",
@@ -43398,6 +43478,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Estrela de Alagoas",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Estrela%20de%20Alagoas.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Estrela%20de%20Alagoas.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-estrela-de-alagoas'target='_blank'>Clique aqui!</a>",
@@ -43943,6 +44028,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Feira Grande",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/feira-grande.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/feira-grande.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-feira-grande'target='_blank'>Clique aqui!</a>",
@@ -48228,6 +48318,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Feliz Deserto",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Feliz%20Deserto.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Feliz%20Deserto.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-feliz-deserto'target='_blank'>Clique aqui!</a>",
@@ -48689,6 +48784,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Flexeiras",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/flexeiras.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/flexeiras.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-flexeiras'target='_blank'>Clique aqui!</a>",
@@ -51928,6 +52028,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Ibateguara",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/ibateguara.PNG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/ibateguara.PNG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-ibateguara'target='_blank'>Clique aqui!</a>",
@@ -53305,6 +53410,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Igaci",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/igaci.PNG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/igaci.PNG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-igaci'target='_blank'>Clique aqui!</a>",
@@ -62502,6 +62612,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Igreja Nova",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Igreja%20Nova.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Igreja%20Nova.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-igreja-nova'target='_blank'>Clique aqui!</a>",
@@ -64533,6 +64648,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "JacarÃÂ© dos Homens",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/jacare-dos-homens.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/jacare-dos-homens.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-jacare-dos-homens'target='_blank'>Clique aqui!</a>",
@@ -66260,6 +66380,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Japaratinga",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/japaratinga.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/japaratinga.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-japaratinga'target='_blank'>Clique aqui!</a>",
@@ -68013,6 +68138,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Jaramataia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jaramataia.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jaramataia.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-jaramataia'target='_blank'>Clique aqui!</a>",
@@ -68534,6 +68664,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "JequiÃÂ¡ da Praia",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/jequia-da-praia.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/jequia-da-praia.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-jequia-da-praia'target='_blank'>Clique aqui!</a>",
@@ -71643,6 +71778,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Joaquim Gomes",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/joaquim-gomes.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/joaquim-gomes.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-joaquim-gomes'target='_blank'>Clique aqui!</a>",
@@ -72916,6 +73056,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "JundiÃÂ¡",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jundia.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Jundia.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-jundia'target='_blank'>Clique aqui!</a>",
@@ -77295,6 +77440,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "MaceiÃÂ³",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/maceio.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/maceio.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-maceio'target='_blank'>Clique aqui!</a>",
@@ -83074,6 +83224,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Marechal Deodoro",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/marechal-deodoro.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/marechal-deodoro.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-marechal-deodoro'target='_blank'>Clique aqui!</a>",
@@ -84559,6 +84714,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Maribondo",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/maribondo.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/maribondo.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-maribondo'target='_blank'>Clique aqui!</a>",
@@ -88666,6 +88826,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Messias",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/messias.PNG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/messias.PNG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-messias'target='_blank'>Clique aqui!</a>",
@@ -88815,6 +88980,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Minador do NegrÃÂ£o",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Minador%20do%20Negrao.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Minador%20do%20Negrao.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-minador-do-negrao'target='_blank'>Clique aqui!</a>",
@@ -89152,6 +89322,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "MonteirÃÂ³polis",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/monteiropolis.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/monteiropolis.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-monteiropolis'target='_blank'>Clique aqui!</a>",
@@ -89619,6 +89794,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Novo Lino",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/novo-lino.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/novo-lino.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-novo-lino'target='_blank'>Clique aqui!</a>",
@@ -93146,6 +93326,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "OlivenÃÂ§a",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Olivenca.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Olivenca.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-olivenca'target='_blank'>Clique aqui!</a>",
@@ -94617,6 +94802,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Palestina",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Palestina.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Palestina.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-palestina'target='_blank'>Clique aqui!</a>",
@@ -98576,6 +98766,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Paripueira",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Paripueira.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Paripueira.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-paripueira'target='_blank'>Clique aqui!</a>",
@@ -100817,6 +101012,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Passo de Camaragibe",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Passo%20de%20Camaragibe.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Passo%20de%20Camaragibe.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-passo-de-camaragibe'target='_blank'>Clique aqui!</a>",
@@ -101978,6 +102178,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Paulo Jacinto",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/paulo-jacinto.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/paulo-jacinto.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-paulo-jacinto'target='_blank'>Clique aqui!</a>",
@@ -104659,6 +104864,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Pilar",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/pilar.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/pilar.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-pilar'target='_blank'>Clique aqui!</a>",
@@ -112650,6 +112860,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Porto Real do ColÃÂ©gio",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/porto-real-do-colegio.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/porto-real-do-colegio.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-porto-real-do-colegio'target='_blank'>Clique aqui!</a>",
@@ -113635,6 +113850,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Quebrangulo",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/quebrangulo.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/quebrangulo.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-quebrangulo-2'target='_blank'>Clique aqui!</a>",
@@ -115726,6 +115946,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Roteiro",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Roteiro.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Roteiro.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-roteiro'target='_blank'>Clique aqui!</a>",
@@ -116895,6 +117120,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Santa Luzia do Norte",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Santa%20Luzia%20do%20Norte.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Santa%20Luzia%20do%20Norte.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-santa-luzia-do-norte'target='_blank'>Clique aqui!</a>",
@@ -118118,6 +118348,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Santana do MundaÃÂº",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/santana-do-mundau.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/santana-do-mundau.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-santana-do-mundau'target='_blank'>Clique aqui!</a>",
@@ -124381,6 +124616,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "SÃÂ£o Miguel dos Milagres",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Sao%20Miguel%20dos%20Milagres.JPG'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/Sao%20Miguel%20dos%20Milagres.JPG' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-sao-miguel-dos-milagres'target='_blank'>Clique aqui!</a>",
@@ -124946,6 +125186,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "SÃÂ£o SebastiÃÂ£o",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/sao-sebastiao.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/sao-sebastiao.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-sao-sebastiao'target='_blank'>Clique aqui!</a>",
@@ -126819,6 +127064,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Satuba",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/satuba.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/satuba.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-satuba'target='_blank'>Clique aqui!</a>",
@@ -127666,6 +127916,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Tanque d'Arca",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/tanque-d-arca.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/tanque-d-arca.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-tanque-darca'target='_blank'>Clique aqui!</a>",
@@ -128947,6 +129202,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Taquarana",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/taquarana.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/taquarana.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-taquarana'target='_blank'>Clique aqui!</a>",
@@ -133304,6 +133564,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "TeotÃÂ´nio Vilela",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/teotonio-vilela.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/teotonio-vilela.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-teotonio-vilela'target='_blank'>Clique aqui!</a>",
@@ -133997,6 +134262,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffffff",
+        "fill-opacity": 0.8,
         "MunicÃÂ­pio": "Traipu",
         "Bandeira": "<a href='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/traipu.jpg'target='_blank'><img src='http://www.cultura.al.gov.br/municipios/bandeiras-e-brasoes/bandeiras-dos-municipios-alagoanos/traipu.jpg' width='140'; heigth='150'></a>",
         "HistÃÂ³rico do MunicÃÂ­pio": "<a href='http://www.cultura.al.gov.br/municipios/historico-dos-municipios/historico-do-municipio-de-traipu'target='_blank'>Clique aqui!</a>",
