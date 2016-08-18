@@ -141072,7 +141072,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00ff00",
+        "marker-color": "#ffff00",
         "marker-size": "large",
         "marker-symbol": "slaughterhouse"
       },
@@ -141162,7 +141162,7 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-color": "#00ff00",
+        "marker-color": "#ffff00",
         "marker-size": "large",
         "marker-symbol": "slaughterhouse"
       },
