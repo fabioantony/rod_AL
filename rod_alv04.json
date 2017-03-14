@@ -54951,8 +54951,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#00d500",
-        "marker-size": "small",
-        "marker-symbol": "car",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
         "Obra": "Viaduto PRF"
       },
       "geometry": {
@@ -55639,8 +55639,8 @@
       "type": "Feature",
       "properties": {
         "marker-color": "#00d500",
-        "marker-size": "small",
-        "marker-symbol": "car",
+        "marker-size": "medium",
+        "marker-symbol": "bus",
         "obra": "MLM CEPA"
       },
       "geometry": {
